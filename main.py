@@ -1,7 +1,7 @@
 from time import perf_counter
 
 class TimerError(Exception):
-    """A Custom Error"""
+    """Timer Error"""
 
 class Timer:
     """Create a new Timer() object"""
